@@ -1,2 +1,2 @@
 # git-github
-Hello How are you? I am Israt Jahan.
+test repo for git comands demonstration
